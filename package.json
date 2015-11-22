@@ -1,0 +1,27 @@
+{
+  "name": "slowdb",
+  "version": "1.0.0",
+  "description": "A simple json database used for CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatea/slowdb.git"
+  },
+  "keywords": [
+    "node",
+    "simple",
+    "jsondb"
+  ],
+  "author": "fatea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fatea/slowdb/issues"
+  },
+  "homepage": "https://github.com/fatea/slowdb#readme",
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
